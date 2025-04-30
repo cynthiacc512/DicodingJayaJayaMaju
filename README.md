@@ -16,7 +16,15 @@ Segala kesamaan data dan nama merupakan bentuk ketidaksengajaan. Proyek ini bert
 
 ---
 
-## Grafik Dashboad
+## Grafik Dashboard
 
 Visual dashboard dapat diakses melalui link [Looker Studio](https://lookerstudio.google.com/reporting/7dd00bc8-5e16-42ac-9c06-4b81758f9a90)
+
+---
+
+## Rekomendasi Action Items
+
+1. **Berikan kepemilikan saham lebih jauh lagi untuk karyawan** :terbukti dari chart dan feature importance, stock option ini memberikan pengaruh signifikan terhadap keputusan pegawai untuk stay atau resign. Karyawan merasa lebih "dipercaya" dan dihargai jika diberikan saham
+
+2. **Audit gaji karyawan**: Masalah klasik, karyawan yang memiliki gaji lebih rendah akan memilih resign. Sebagai HR, harus bisa memastikan apakah gaji (rewards) yang diterima sudah sesuai dengan usaha dan perjuangan pekerjaannya. Jangan sampai karyawan merasa kompetitor malah bisa lebih menghargai usaha kerasnya.
 
