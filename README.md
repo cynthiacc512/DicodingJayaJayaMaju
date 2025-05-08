@@ -20,13 +20,16 @@ Sebagai Data Scientist, tugas kita adalah:
 - Buat model prediksi buat mendeteksi karyawan berisiko resign.
 
 ## Persiapan
-Sumber data: HR employee data (terlampir, dataset fiktif, berjumlah 1.058 data)
+Sumber data: HR employee data (terlampir "employee_data.csv", dataset fiktif, berjumlah 1.058 data)
+
 Setup environment: 
+!pip install -r https://raw.githubusercontent.com/cynthiacc512/DicodingJayaJayaMaju/main/requirements.txt
 
 ---
 
 ## Business Dashboard
 
+Model dapat memprediksi nyaris mendekati kenyataan aktual pegawai resign. Ternyata masalah terbesar dari alasan mengapa pegawainya resign adalah tidak/kurangnya diberikan saham perusahaan. Seringkali kita hanya berpikir masalah gaji dan jabatan. Memang gaji menjadi faktor terbesar kedua, tetapi yang menjadi masalah utamanya bukan dari gaji saja
 Visual dashboard dapat diakses melalui link [Looker Studio](https://lookerstudio.google.com/reporting/7dd00bc8-5e16-42ac-9c06-4b81758f9a90)
 
 ---
