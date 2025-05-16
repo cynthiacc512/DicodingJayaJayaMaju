@@ -23,8 +23,9 @@ Sebagai Data Scientist, tugas kita adalah:
 Sumber data: HR employee data (terlampir "employee_data.csv", dataset fiktif, berjumlah 1.058 data)
 
 Setup environment: 
-!pip install -r https://raw.githubusercontent.com/cynthiacc512/DicodingJayaJayaMaju/main/requirements.txt
-
+```bash
+pip install -r https://raw.githubusercontent.com/cynthiacc512/DicodingJayaJayaMaju/main/requirements.txt
+```
 ---
 
 ## Business Dashboard
