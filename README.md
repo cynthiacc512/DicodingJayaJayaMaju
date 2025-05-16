@@ -20,7 +20,7 @@ Sebagai Data Scientist, tugas kita adalah:
 - Buat model prediksi buat mendeteksi karyawan berisiko resign.
 
 ## Persiapan
-Sumber data: HR employee data (terlampir "employee_data.csv", dataset fiktif, berjumlah 1.058 data)
+Sumber data: HR employee data (terlampir pada "employee_data.csv", dataset fiktif, berjumlah 1.058 data). [Sumber asli dataset](https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee)
 
 Setup environment: 
 ```bash
