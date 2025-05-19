@@ -22,9 +22,19 @@ Sebagai Data Scientist, tugas kita adalah:
 ## Persiapan
 Sumber data: HR employee data (terlampir pada "employee_data.csv", dataset fiktif, berjumlah 1.058 data). [Sumber asli dataset](https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee)
 
+Install virtual environment: 
+```bash
+python -m venv venv
+```
+
+Install virtual environment: 
+```bash
+source venv/bin/activate
+```
+
 Setup environment: 
 ```bash
-pip install -r https://raw.githubusercontent.com/cynthiacc512/DicodingJayaJayaMaju/main/requirements.txt
+pip install -r requirements.txt
 ```
 ---
 
